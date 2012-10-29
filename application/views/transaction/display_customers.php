@@ -3,6 +3,7 @@
 <title></title>
 </head>
 <body>
+    
     <h2>View Customer's Detail</h2>
     <table border ="1">
         <tr><th>Customer_ID</th><th>Email</th><th>Date_of_Birth</th><th>First_Name</th><th/>Last_Name</th><th>Gender</th><th>Balance</th><th>Country</th><th>Status</th><th>Action</th></tr>
